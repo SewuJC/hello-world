@@ -1,3 +1,2 @@
 # hello-world
-I am particularly proud of being here today.
-I have nothing to say but this : this is wonderful.
+This is my first contribution to GitHub, and I'm so proud of it.
